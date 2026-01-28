@@ -1,0 +1,20 @@
+# Build artifacts
+target/
+*.war
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs and temp files
+*.log
+api_documentation.md
+
+# Docker files themselves
+Dockerfile
+docker-compose.yml
